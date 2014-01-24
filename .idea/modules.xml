@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GoogleGlassSamples.iml" filepath="$PROJECT_DIR$/GoogleGlassSamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compass/compass.iml" filepath="$PROJECT_DIR$/compass/compass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stopwatch/stopwatch.iml" filepath="$PROJECT_DIR$/stopwatch/stopwatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timer/timer.iml" filepath="$PROJECT_DIR$/timer/timer.iml" />
+    </modules>
+  </component>
+</project>
+
